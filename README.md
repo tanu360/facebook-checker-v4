@@ -14,7 +14,8 @@ Facebook Account Checker is a Python application used to verify the status of Fa
 1. Install the required Python packages:
 
    ```
-   install.bat
+   pip install requests
+   pip3 install requests
    ```
 
 2. Add the Facebook accounts you want to check to the `account.txt` file, with one account per line.
@@ -42,5 +43,6 @@ This project is licensed under the MIT License. For more information, see the [L
 
 ---
 
-Feel free to use this project as a starting point for your own enhancements or customizations. Happy coding!
+```
+
 ```
